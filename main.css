@@ -124,6 +124,7 @@
     align-items: center;
     padding-left: 10px;
     color: white;
+    cursor: pointer;
 }
 
 .add__btn span {
